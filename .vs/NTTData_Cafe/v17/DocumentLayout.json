@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\NTTData_Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\commands\\updateemployee\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\commands\\updateemployee\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\commands\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\commands\\createemployee\\createemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\queries\\getemployeebycafename\\getemployeebycafenamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\queries\\getemployeebycafename\\getemployeebycafenamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\models\\dtomodels\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\models\\dtomodels\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\queries\\getemployeebycafename\\getemployeebycafenamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\queries\\getemployeebycafename\\getemployeebycafenamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\commands\\createemployee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\commands\\createemployee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\cafes\\queries\\getcafebylocation\\getcafebylocationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\cafes\\queries\\getcafebylocation\\getcafebylocationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\controllers\\cafescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\controllers\\cafescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\cafes\\commands\\deletecafe\\deletecafecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\cafes\\commands\\deletecafe\\deletecafecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\cafes\\commands\\deletecafe\\deletecafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\cafes\\commands\\deletecafe\\deletecafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\commands\\deleteemployee\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\commands\\deleteemployee\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\commands\\deleteemployee\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\commands\\deleteemployee\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\cafes\\commands\\updatecafe\\updatecafecommandehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\cafes\\commands\\updatecafe\\updatecafecommandehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|d:\\my projects\\nttdata_cafe\\nttdata_cafe\\features\\employees\\commands\\updateemployee\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDDEEF2-D22B-40B0-98A7-7D500E6288A0}|NTTData_Cafe\\NTTData_Cafe.csproj|solutionrelative:nttdata_cafe\\features\\employees\\commands\\updateemployee\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:47:39.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteCafeCommandHandler.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommandHandler.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommandHandler.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommandHandler.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:34:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteCafeCommand.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommand.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommand.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommand.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Cafes\\Commands\\DeleteCafe\\DeleteCafeCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:33:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:10:19.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Commands\\DeleteEmployee\\DeleteEmployeeCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:09:51.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetCafeByLocationQueryHandler.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Queries\\GetCafeByLocation\\GetCafeByLocationQueryHandler.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Cafes\\Queries\\GetCafeByLocation\\GetCafeByLocationQueryHandler.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Queries\\GetCafeByLocation\\GetCafeByLocationQueryHandler.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Cafes\\Queries\\GetCafeByLocation\\GetCafeByLocationQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:03:50.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetEmployeeByCafeNameQueryHandler.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQueryHandler.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQueryHandler.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQueryHandler.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:02:44.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CafesController.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Controllers\\CafesController.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Controllers\\CafesController.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Controllers\\CafesController.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Controllers\\CafesController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:57:21.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowE4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:57:17.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateCafeCommandeHandler.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Commands\\UpdateCafe\\UpdateCafeCommandeHandler.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Cafes\\Commands\\UpdateCafe\\UpdateCafeCommandeHandler.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Cafes\\Commands\\UpdateCafe\\UpdateCafeCommandeHandler.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Cafes\\Commands\\UpdateCafe\\UpdateCafeCommandeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:54:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Models\\DtoModels\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Models\\DtoModels\\EmployeeDTO.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Models\\DtoModels\\EmployeeDTO.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Models\\DtoModels\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:37:26.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:48:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetEmployeeByCafeNameQuery.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQuery.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQuery.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQuery.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Queries\\GetEmployeeByCafeName\\GetEmployeeByCafeNameQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:40:49.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Program.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Program.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Program.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:02:14.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Commands\\CreateEmployee\\CreateEmployeeCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:48:10.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "ToolTip": "D:\\My Projects\\NTTData_Cafe\\NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "NTTData_Cafe\\Features\\Employees\\Commands\\UpdateEmployee\\UpdateEmployeeCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:48:00.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

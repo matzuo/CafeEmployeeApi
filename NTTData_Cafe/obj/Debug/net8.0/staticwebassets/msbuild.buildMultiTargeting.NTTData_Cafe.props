@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NTTData_Cafe.props" />
+</Project>
